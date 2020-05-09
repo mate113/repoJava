@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.layout.AnchorPane?>
+
+
+<AnchorPane xmlns="http://javafx.com/javafx/11.0.1">
+    <children>
+        <TextArea editable="false"
+                  text="Program Mp3Player stworzony w trakcie kursu JavaStart.pl
+                    &#10;&#10;Umożliwia odtworzenie wybranego pliku .mp3
+                    &#10;&#10;Wersja programu v1.0&#10;&#10;"
+
+                  AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0"
+                  AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0" />
+    </children>
+</AnchorPane>
